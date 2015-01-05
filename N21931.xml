@@ -107,8 +107,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:028887_0000_0FDE66CC19F9A498"/>
-            <pb facs="tcp:028887_0001_0FDE66D1465110C0" rendition="simple:additions"/>
+            <pb facs="unknown:028887_0000_0FDE66CC19F9A498"/>
+            <pb facs="unknown:028887_0001_0FDE66D1465110C0"
+                rendition="simple:additions"/>
             <p>THE INTERCOURSE OF NATIONS: BEING A COLLECTION OF SHORT, CORRECT AND EASY RULES FOR REDUCING <hi>Thirteen different Coins and Currencies into each other,</hi> WITH A CONCISE METHOD OF CALCULATING FEDERAL MONEY. TO WHICH IS PREFIXED, A COMPLETE SYSTEM OF VULGAR AND DECIMAL FRACTIONS, <hi>&amp;c.</hi>
             </p>
             <q>
@@ -119,7 +120,7 @@
             </p>
          </div>
          <div type="preface">
-            <pb facs="tcp:028887_0002_0FDE66D2F9CBD660"/>
+            <pb facs="unknown:028887_0002_0FDE66D2F9CBD660"/>
             <head>PREFACE.</head>
             <p>
                <hi>TO</hi> blazon forth a ſtudied preface in praiſe of any publication, is, at beſt, but a genteel infult to the judg<g ref="char:EOLhyphen"/>ment of the reader.—That the preſen<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -134,7 +135,7 @@
       </front>
       <body>
          <div type="explanation_of_characters">
-            <pb facs="tcp:028887_0003_0FDE66D5871E6EF8"/>
+            <pb facs="unknown:028887_0003_0FDE66D5871E6EF8"/>
             <head>EXPLANATION OF CHARACTERS MADE USE OF IN CERTAIN CASES FOR THE SAKE OF BREVITY.</head>
             <p>= THE ſign or mark of equation, or equal to de<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
@@ -147,7 +148,7 @@
             <p>∷ Denoting, ſo is, is the ſign of a geometrical progreſ<g ref="char:EOLhyphen"/>ſion, or increaſe, and is placed between the ſecond and third terms of four proportional numbers, thus, 4 ∶ 8 ∷ 12 ∶ 24—or, as 4 are to 8, ſo are 12 to 24—as in the rule of three.</p>
          </div>
          <div type="tables">
-            <pb n="5" facs="tcp:028887_0004_0FDE66DE05591460"/>
+            <pb n="5" facs="unknown:028887_0004_0FDE66DE05591460"/>
             <p>
                <table>
                   <head>Figures or Characters made uſe of in Arithmetic.</head>
@@ -288,7 +289,7 @@
                <item>A hundred and twenty pence is ten ſhillings.</item>
             </list>
             <list>
-               <pb n="6" facs="tcp:028887_0005_0FDE66DF46E434B8"/>
+               <pb n="6" facs="unknown:028887_0005_0FDE66DF46E434B8"/>
                <head>MULTIPLICATION TABLE.</head>
                <item>TWICE two are four,</item>
                <item>Twice three are ſix,</item>
@@ -347,7 +348,7 @@
                <item>Eight times eleven are eigh<g ref="char:EOLhyphen"/>ty-eight,</item>
                <item>Eight times twelve are nine<g ref="char:EOLhyphen"/>ty-ſix.</item>
                <item>
-                  <pb n="7" facs="tcp:028887_0006_0FDE66E0D81B7E58"/>
+                  <pb n="7" facs="unknown:028887_0006_0FDE66E0D81B7E58"/>
 Nine times nine are eighty-one,</item>
                <item>Nine times ten are ninety,</item>
                <item>Nine times eleven are ninety-nine,</item>
@@ -419,7 +420,7 @@ Nine times nine are eighty-one,</item>
                      </hi> ſterl. or forty federal dollars.</item>
                </list>
                <list>
-                  <pb n="8" facs="tcp:028887_0007_0FDE66E24B06E428"/>
+                  <pb n="8" facs="unknown:028887_0007_0FDE66E24B06E428"/>
                   <head>A Table of Troy Weight.
 <note n="*" place="bottom">
                         <hi>By this weight is weighed all gold, ſilver, jewelry, all ſorts of money, &amp;c.</hi>
@@ -499,7 +500,7 @@ Nine times nine are eighty-one,</item>
                   </item>
                </list>
                <list>
-                  <pb n="9" facs="tcp:028887_0008_0FDE66EC24CB53A8"/>
+                  <pb n="9" facs="unknown:028887_0008_0FDE66EC24CB53A8"/>
                   <head>A Table of Land Meaſure.</head>
                   <item>9 Square feet, make one ſquare yard, <hi>yd.</hi>
                   </item>
@@ -571,7 +572,7 @@ Nine times nine are eighty-one,</item>
                   <item>365 Days, five hours and forty-nine minutes, one ſolar year; which are divided into the following months, with their reſpective number of days:</item>
                </list>
                <table>
-                  <pb n="10" facs="tcp:028887_0009_0FDE66ED885E6520"/>
+                  <pb n="10" facs="unknown:028887_0009_0FDE66ED885E6520"/>
                   <row>
                      <cell>January,</cell>
                      <cell>31</cell>
@@ -664,7 +665,7 @@ Nine times nine are eighty-one,</item>
             </p>
          </div>
          <div type="rule">
-            <pb n="11" facs="tcp:028887_0010_0FDE66EF186646E0"/>
+            <pb n="11" facs="unknown:028887_0010_0FDE66EF186646E0"/>
             <head>OF REDUCTION.</head>
             <p>REDUCTION conſiſts of two diſtinct rules; the one called Reduction Deſcending, that is, when a great denomi<g ref="char:EOLhyphen"/>nation is to be reduced to the ſtandard of a ſmaller one, as dollars into cents, cents into mills, &amp;c. and is wrought by multiplication; always taking care to multiply by as many as there are of the ſmaller denomination contained in one of the greater; as dollars to be reduced into cents, muſt be multiplied by 100; cents into mills, by 10, &amp;c. taking care to bring in the parts, that is, the cents when reducing dol<g ref="char:EOLhyphen"/>lars, and the mills when reducing cents.</p>
             <p>The other is called Reduction Aſcending, being wrought by diviſion, and made uſe of to determine how many of a great denomination, as dollars, are contained in a given number of a ſmaller one, as cents, or mills, and muſt be wrought exactly contrary to Reduction Deſcending.</p>
@@ -722,7 +723,7 @@ Nine times nine are eighty-one,</item>
             </p>
          </div>
          <div type="rule">
-            <pb n="12" facs="tcp:028887_0011_0FDE66F0D77CA648"/>
+            <pb n="12" facs="unknown:028887_0011_0FDE66F0D77CA648"/>
             <head>DESCENDING.</head>
             <p n="3">3. Reduce 427 dollars, into cents. 427,00</p>
             <p>When any number is to be multiplied by ten, annex one cypher to the units' place; if by 100, annex two cyphers, &amp;c. as in this caſe.</p>
@@ -764,7 +765,7 @@ Nine times nine are eighty-one,</item>
             <p n="4">4. In 408,000 farthings, how many pounds?—<hi>Anſ.</hi> 425.</p>
          </div>
          <div type="rule">
-            <pb n="13" facs="tcp:028887_0012_0FDE66FACCED5B50"/>
+            <pb n="13" facs="unknown:028887_0012_0FDE66FACCED5B50"/>
             <head>ASCENDING.</head>
             <p n="5">5. In 27,360 inches, how many yards?—<hi>Anſ.</hi> 760.</p>
             <p n="6">6. In 138,272 gills, how many gallons?—<hi>Anſ.</hi> 4321.</p>
@@ -830,7 +831,7 @@ Nine times nine are eighty-one,</item>
             </p>
          </div>
          <div type="rule">
-            <pb n="14" facs="tcp:028887_0013_0FDE66FC068C3560"/>
+            <pb n="14" facs="unknown:028887_0013_0FDE66FC068C3560"/>
             <head>DESCENDING AND ASCENDING.</head>
             <p n="3">3. In 280 pence, how many farthings and three-pences? <hi>Anſ.</hi> 1120 farthings—93⅓ three-pences.</p>
             <p n="4">4. In 67 degrees, how many miles and leagues, reckon<g ref="char:EOLhyphen"/>ing 69½ miles to a degree? <hi>Anſ.</hi> 4656½ miles—1552⅙ leagues.</p>
@@ -848,7 +849,7 @@ Nine times nine are eighty-one,</item>
             <p>I have been informed that the allowance of trett is entirely out of practice at preſent; but leaſt it ſhould not be ſo, I ſhall ſtate a few queſtions in which both tare and trett are to be allowed.</p>
             <p>In the following table I have endeavoured to ſpecify thoſe articles on which tare is allowed, and to come as near the uſual allowance as I have it in my power.</p>
             <p>
-               <pb n="15" facs="tcp:028887_0014_0FDE66FD86B10340"/>
+               <pb n="15" facs="unknown:028887_0014_0FDE66FD86B10340"/>
                <table>
                   <head>A TABLE OF TARE.</head>
                   <row>
@@ -935,7 +936,7 @@ Nine times nine are eighty-one,</item>
             <p>Note—By per cent. is meant 100 <hi>lbs.</hi> and not a groſs hundred weight.</p>
          </div>
          <div type="rule">
-            <pb n="16" facs="tcp:028887_0015_0FDE66FEDDBF47B8"/>
+            <pb n="16" facs="unknown:028887_0015_0FDE66FEDDBF47B8"/>
             <head>TARE AND TRETT.</head>
             <p n="1">1. IN 104 hogſheads of ſugar, weighing 9 <hi>cwt.</hi> 2 <hi>qrs.</hi> 14<hi>lb.</hi> each, tare per <hi>hhd.</hi> 1 <hi>cwt.</hi> 0 <hi>qrs.</hi> 14 <hi>lb.</hi> how much nett?</p>
             <p>
@@ -1069,7 +1070,7 @@ Nine times nine are eighty-one,</item>
             </p>
             <p>The moſt common method of working ſums of this kind, is as follows, but it being much longer, I think beſt to take one of the above rules whenever the tare is ſo proportioned to the groſs or nett weight, as to allow it.</p>
             <p>
-               <pb n="17" facs="tcp:028887_0016_0FDE6709B94D6348"/>
+               <pb n="17" facs="unknown:028887_0016_0FDE6709B94D6348"/>
                <table>
                   <row>
                      <cell>9</cell>
@@ -1275,7 +1276,7 @@ Nine times nine are eighty-one,</item>
             </p>
             <p n="5">5. In 75 hogſheads of tobacco, each weighing 9 <hi>cwt.</hi> 2 <hi>qrs.</hi> 21 <hi>lb.</hi> tare 1 <hi>c.</hi> 1 <hi>qr.</hi> 7 <hi>lb.</hi> how much nett weight?</p>
             <p>
-               <pb n="18" facs="tcp:028887_0017_0FDE670B9FFD9340"/>
+               <pb n="18" facs="unknown:028887_0017_0FDE670B9FFD9340"/>
                <table>
                   <head>TARE AND TRETT.</head>
                   <row>
@@ -1466,7 +1467,7 @@ Nine times nine are eighty-one,</item>
             </p>
          </div>
          <div type="rule">
-            <pb n="19" facs="tcp:028887_0018_0FDE670D779556F0"/>
+            <pb n="19" facs="unknown:028887_0018_0FDE670D779556F0"/>
             <head>OF FRACTIONS GENERALLY.</head>
             <p>A FRACTION is a certain part or parts of a whole number, as three-fourths of one ſhilling, and are marked thus ¾, the lower number being called the denominator, becauſe it de<g ref="char:EOLhyphen"/>termines the term or denomination of the fraction, as fourths, tenths, &amp;c. and denotes that a whole number con<g ref="char:EOLhyphen"/>ſiſts of ſo many equal parts. The upper number is called the numerator, both becauſe it is always mentioned firſt in calling fractions, as ¾ 7/10 &amp;c. and alſo becauſe it ſhews the fraction which it repreſents to conſiſt of ſo many parts of a whole number, as 3 ſet over 4, denotes the fraction to con<g ref="char:EOLhyphen"/>ſiſt of 3 of the four equal parts into which a whole number is divided and is called three fourths.</p>
             <p>There are alſo fractions of fractions, as ½ of ⅔ of ¾ of a pound, dollar, &amp;c. When whole numbers and fractions hap<g ref="char:EOLhyphen"/>pen together, they are called ſurd or mixed numbers, as 3⅝ 6 7/9 that is, three and five eights, ſix and ſeven ninths, &amp;c.</p>
@@ -1474,7 +1475,7 @@ Nine times nine are eighty-one,</item>
             <p>A decimal fraction is always regulated by tens, hundreds, &amp;c. that is, every fraction, if conſiſting of one figure only, has ten for its denominator, without the denominator being placed under it, as is the caſe in vulgar fractions. Inſtead of this, there is a dot placed on the left hand of the fraction, thus .9 denoting it to be nine-tenths of a whole number. If the fraction conſiſts of two or more figures, the denomi<g ref="char:EOLhyphen"/>nator is increaſed in proportion, as .64 or 64/100 .432 or 432/1000 and ſo on to as many figures as may occur.</p>
             <p>When ſurd numbers are to be expreſſed in decimals, the dot is placed between the whole numbers and the frac<g ref="char:EOLhyphen"/>tions, as, 5.6, or five and ſix tenths; 42.74, or forty-two and ſeventy-four hundredths, &amp;c. If a cypher, or cy<g ref="char:EOLhyphen"/>phers, ſhould preſent themſelves at the right hand of the decimals, they ought to be cut off, each cypher ſo cut off, leſſening the denominator one tenth, as, .240 cutting off the cypher will leave the fraction .24 or twenty-four hundreths; and this is all the method there is of reducing decimal frac<g ref="char:EOLhyphen"/>tions to their loweſt terms; for if they will not admit of this, or rather if there is no cypher in the units' place, the fraction is at its loweſt term in decimals already.</p>
             <p>
-               <pb n="20" facs="tcp:028887_0019_0FDE670F575CD1D8"/>
+               <pb n="20" facs="unknown:028887_0019_0FDE670F575CD1D8"/>
 One reaſon why I have put fractions before the rule of three, is the extenſive uſe of them, for ſcarcely any, the moſt common queſtion in Arithmetic, can be preciſely anſwered without a partial knowledge of them at leaſt.</p>
             <p>Another reaſon is, that I propoſe in the courſe of this work to lay down a complete ſyſtem of Reduction, to be applyed to coins and currencies, and it is next to an impoſſibility for a perſon to underſtand why ſuch or ſuch proportions are made uſe of, unleſs he knows from whence they were taken, and this he will know nothing about if he has not a tolerable idea of fractions.</p>
          </div>
@@ -1504,7 +1505,7 @@ One reaſon why I have put fractions before the rule of three, is the extenſive
                <hi>To reduce a fraction to its loweſt terms.</hi>
             </p>
             <p>This is in order to ſhew how low each part of the frac<g ref="char:EOLhyphen"/>tion
-<pb n="21" facs="tcp:028887_0020_0FDE6718347FF100"/>may be reduced and ſtill be in the ſame proportion to each other, as when in larger numbers, as 18/27 may be reduced until it becomes ⅔ and yet not vary the proportions. It is alſo much eaſier working with ſmall fractions than with large ones, which makes this caſe very neceſſary.</p>
+<pb n="21" facs="unknown:028887_0020_0FDE6718347FF100"/>may be reduced and ſtill be in the ſame proportion to each other, as when in larger numbers, as 18/27 may be reduced until it becomes ⅔ and yet not vary the proportions. It is alſo much eaſier working with ſmall fractions than with large ones, which makes this caſe very neceſſary.</p>
             <p>RULE.</p>
             <p>Divide the greater by the leſſer of the two numbers, and the leſſer by the remainder, and ſo on until nothing remains —the laſt diviſor is the common meaſure, by which (if it is not one) divide both parts of the fraction; the quotients will be the fraction required—if one is the common meaſure, the fraction is already at its loweſt terms.</p>
             <p>EXAMPLE.</p>
@@ -1549,7 +1550,7 @@ One reaſon why I have put fractions before the rule of three, is the extenſive
             <p>RULE.</p>
             <p>Divide the numerator by the denominator, the quoti<g ref="char:EOLhyphen"/>ent being whole numbers, and the remainder fractions.</p>
             <p>
-               <pb n="22" facs="tcp:028887_0021_0FDE671909143BE8"/>
+               <pb n="22" facs="unknown:028887_0021_0FDE671909143BE8"/>
 EXAMPLE.</p>
             <p n="1">1. Reduce 90/12 to its proper terms.</p>
             <p>12)90/12=7 6/12 Anſ.</p>
@@ -1604,7 +1605,7 @@ EXAMPLE.</p>
                <hi>To reduce a fraction of one denomination, as pounds, to that of another, as pence, ſtill retaining the ſame value.</hi>
             </p>
             <p>
-               <pb n="23" facs="tcp:028887_0022_0FDE671A86861310"/>
+               <pb n="23" facs="unknown:028887_0022_0FDE671A86861310"/>
 RULE.</p>
             <p>If 1/2160 part of a pound be given, and the fraction of a penny is required, multiply the numerator by 20, and that product by 12, (or otherwiſe as circumſtances may require) the laſt product is the numerator, the given denominator being retained.</p>
             <p>EXAMPLE.</p>
@@ -1667,7 +1668,7 @@ RULE.</p>
             <p n="2">2. Reduce 6/24 to a fraction, whoſe numerator ſhall be 30. Anſ. 30/70.</p>
             <p n="3">3. Reduce ⅔ to a fraction, whoſe numerator ſhall be 12. Anſ. 12/18</p>
             <p>
-               <pb n="24" facs="tcp:028887_0023_0FDE671C06DC5900"/>
+               <pb n="24" facs="unknown:028887_0023_0FDE671C06DC5900"/>
 CASE IX.
 <note n="*" place="bottom">
                   <hi>See Caſe VIII.—Page</hi> 23.</note>
@@ -1729,7 +1730,7 @@ CASE IX.
                </table>
             </p>
             <p>
-               <pb n="25" facs="tcp:028887_0024_0FDE6726A5B50F98"/>
+               <pb n="25" facs="unknown:028887_0024_0FDE6726A5B50F98"/>
 Here I ſay 8 times 2 are ſixteen, and 7 are 23, eight times 4 are 32, and two are 34, which gives my numerator; ſecondly, I multiply my denominators together, which gives the denominator, and the fraction ſtands thus 343/392 equal to ⅞.</p>
             <p n="2">2. Reduce ⅔ 3/6 to a ſimple fraction. <hi>Anſ.</hi> 15/18=5/6.</p>
             <p n="3">3. Reduce 24/29 6/11 to a ſimple fraction. <hi>Anſ.</hi> 2<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1786,7 +1787,7 @@ Here I ſay 8 times 2 are ſixteen, and 7 are 23, eight times 4 are 32, and two 
                </table>
             </p>
             <p n="2">
-               <pb n="26" facs="tcp:028887_0025_0FDE672747455400"/>
+               <pb n="26" facs="unknown:028887_0025_0FDE672747455400"/>
 2. Reduce 5/6 of a pound avoirdupois, to its proper quan<g ref="char:EOLhyphen"/>tity.—<hi>Anſwer,</hi> 13 <hi>oz.</hi> 5 2/6 <hi>dr.</hi>
             </p>
             <p n="3">3. Reduce 11/12 of a dollar, to its proper quantity. <hi>Anſwer,</hi> 91 <hi>c.</hi> 6 8/12 <hi>m.</hi>
@@ -1876,7 +1877,7 @@ Here I ſay 8 times 2 are ſixteen, and 7 are 23, eight times 4 are 32, and two 
             <p>RULE.</p>
             <p n="1">1. Reduce the given fractions, to a common denomina<g ref="char:EOLhyphen"/>tor, according to caſe 1.</p>
             <p n="2">2. Add all the numerators together, for a new numera<g ref="char:EOLhyphen"/>tor, under which ſet the common denominator, and the
-<pb n="27" facs="tcp:028887_0026_0FDE6728DF5C1768"/>anſwer (in moſt caſes) will be an improper fraction, to the right hand of which affix the ſign of equation.</p>
+<pb n="27" facs="unknown:028887_0026_0FDE6728DF5C1768"/>anſwer (in moſt caſes) will be an improper fraction, to the right hand of which affix the ſign of equation.</p>
             <p n="3">3. Divide the numerator by the denominator, without removing the numbers from their places, ſetting the quoti<g ref="char:EOLhyphen"/>ent figures (which are whole numbers) to the right hand of the ſign of equation, and the remainder to the right of the whole numbers, under which ſubſcribe the common deno<g ref="char:EOLhyphen"/>minator.</p>
             <p>EXAMPLE.</p>
             <p n="1">1. Add ¾ and 4/<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1917,7 +1918,7 @@ Here I ſay 8 times 2 are ſixteen, and 7 are 23, eight times 4 are 32, and two 
             <p n="5">5. Subtract 9/10 from 29/31. 11/310. Anſ.</p>
             <p n="6">6. Subtract 3/9 from 27/28. 159/252 = 53/84.</p>
             <p>
-               <pb n="28" facs="tcp:028887_0027_0FDE672A44C0D7B8"/>
+               <pb n="28" facs="unknown:028887_0027_0FDE672A44C0D7B8"/>
 There are alſo ſome caſes in which the given fractions muſt be reduced to their proper quantity, according to caſe 11, and then ſubtracted like pounds, ſhillings and pence, hundreds, quarters and pounds, &amp;c. as in the following queſ<g ref="char:EOLhyphen"/>tions:</p>
             <p>EXAMPLE.</p>
             <p n="1">1. Subtract ¼ of a yard from 9/10 of a foot.</p>
@@ -2079,7 +2080,7 @@ There are alſo ſome caſes in which the given fractions muſt be reduced to th
                </table>
             </p>
             <p>
-               <pb n="29" facs="tcp:028887_0028_0FDE6732588D1478"/>
+               <pb n="29" facs="unknown:028887_0028_0FDE6732588D1478"/>
 Here each fraction being reduced to its proper quantity, that is ⅞ of a hundred weight, to 98 <hi>lb.</hi> and 8/12 of a ton, to 1493 4/12 <hi>lb.</hi> I ſubtract the leſſer from the greater, reducing the remainder into hundreds, quarters and pounds, and find it to be 12 <hi>c.</hi> 1 <hi>qr.</hi> 23 4/12 <hi>lb.</hi>
             </p>
             <p n="3">3. Subtract ⅕ of a cent, form 1/10 of a dollar. <hi>Anſ.</hi> 9 <hi>c.</hi> 8 <hi>m.</hi>
@@ -2115,7 +2116,7 @@ Here each fraction being reduced to its proper quantity, that is ⅞ of a hundre
             <p n="2">2. Multiply by the contrary numerator, carrying the whole numbers, and divide by the denominator of that frac<g ref="char:EOLhyphen"/>tion, by whoſe numerator the mixed number was multiply<g ref="char:EOLhyphen"/>ed.</p>
             <p>If any part of the product ſhould amount to a mixed frac<g ref="char:EOLhyphen"/>tion, reduce it to a ſimple one, by caſe 10, carrying it out to the right hand, with the ſign of equation between the mixed and ſimple fractions.</p>
             <p n="1">
-               <pb n="30" facs="tcp:028887_0029_0FDE673346B4E758"/>
+               <pb n="30" facs="unknown:028887_0029_0FDE673346B4E758"/>
 1. Multiply 25 2/7 by 4/<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>.</p>
@@ -2190,7 +2191,7 @@ Here each fraction being reduced to its proper quantity, that is ⅞ of a hundre
             <p>Again—1. multiply both the denominators together, for a diviſor, and each numerator by the number of which it is a fraction, for the factors.</p>
             <p n="2">2. Multiply the two factors together, and divide by the product of the denominators.</p>
             <p>
-               <pb n="31" facs="tcp:028887_0030_0FDE6734C7197970"/>
+               <pb n="31" facs="unknown:028887_0030_0FDE6734C7197970"/>
 EXAMPLE.</p>
             <p>
                <table>
@@ -2321,7 +2322,7 @@ EXAMPLE.</p>
                </table>
             </p>
             <p n="2">
-               <pb n="32" facs="tcp:028887_0031_0FDE6736457EF3B0"/>
+               <pb n="32" facs="unknown:028887_0031_0FDE6736457EF3B0"/>
 2. Divide 17/21 by ⅗.—17/<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap> × 3/<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2364,7 +2365,7 @@ EXAMPLE.</p>
                   <desc>•</desc>
                </gap> of a pound, New-York currency, what will 9/10 of a yard coſt?</p>
             <p>
-               <pb n="33" facs="tcp:028887_0032_0FDE673DA491E0A0"/>
+               <pb n="33" facs="unknown:028887_0032_0FDE673DA491E0A0"/>
                <table>
                   <row>
                      <cell>
@@ -2607,7 +2608,7 @@ EXAMPLE.</p>
                   <abbr>d.</abbr>
                </hi> as above.</p>
             <p n="4">
-               <pb n="34" facs="tcp:028887_0033_0FDE673E878F9BA0"/>
+               <pb n="34" facs="unknown:028887_0033_0FDE673E878F9BA0"/>
 4. If ¼ of a pound of beef, coſt 2/<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> of a ſhilling, what coſt 5/10 of a pound?—<hi>Anſ.</hi> 3<hi>
@@ -2732,7 +2733,7 @@ EXAMPLE.</p>
                </gap>
             </p>
             <p n="3">
-               <pb n="35" facs="tcp:028887_0034_0FDE674007B35BF8"/>
+               <pb n="35" facs="unknown:028887_0034_0FDE674007B35BF8"/>
 3. If a ſhip is 36⅓ days performing a certain voyage, when ſhe fails at the rate of 6¼ miles an hour, how long will ſhe be performing the ſame, when ſhe ſails at the rate of 4 2/12 miles an hour?</p>
             <p>
                <table>
@@ -2834,7 +2835,7 @@ EXAMPLE.</p>
                   <desc>••</desc>
                </gap>
                <g ref="char:EOLhyphen"/>phers,
-<pb n="36" facs="tcp:028887_0035_0FDE67418D109EA8"/>ſhould preſent themſelves at the right hand of the decimals, they ought to be cut off, each cypher ſo cut off, leſſening the denominator one tenth, as, .240 cutting off the cypher will leave the fraction .24 or twenty-four hundreths; and this is all the method there is of reducing decimal frac<g ref="char:EOLhyphen"/>tions to their loweſt terms; for if they will not admit of this, or rather if there is no cypher in the units' place, the fraction is at its loweſt term in decimals already."</p>
+<pb n="36" facs="unknown:028887_0035_0FDE67418D109EA8"/>ſhould preſent themſelves at the right hand of the decimals, they ought to be cut off, each cypher ſo cut off, leſſening the denominator one tenth, as, .240 cutting off the cypher will leave the fraction .24 or twenty-four hundreths; and this is all the method there is of reducing decimal frac<g ref="char:EOLhyphen"/>tions to their loweſt terms; for if they will not admit of this, or rather if there is no cypher in the units' place, the fraction is at its loweſt term in decimals already."</p>
             <p>The following is a ſcale, ſhewing the increaſe both of whole numbers and decimals.</p>
             <p>
                <table>
@@ -2901,7 +2902,7 @@ EXAMPLE.</p>
             <p>ANNEX a convenient number of cyphers to the right hand of the numerator of any given vulgar fraction, and divide by the denominator, cutting off all the cyphers in the right of the quotient.</p>
          </div>
          <div type="rule">
-            <pb n="37" facs="tcp:028887_0036_0FDE674A41224880"/>
+            <pb n="37" facs="unknown:028887_0036_0FDE674A41224880"/>
             <head>REDUCTION OF DECIMALS.</head>
             <p>EXAMPLE.</p>
             <p n="1">1. Reduce ¼ to its term in decimals.</p>
@@ -2956,7 +2957,7 @@ EXAMPLE.</p>
             <p n="2">2. Reduce .425 of a <hi>cwt.</hi> to its proper quantity. Anſ. 1 <hi>qr.</hi> 19 <hi>lb.</hi> 9 <hi>oz.</hi> 9 <hi>dr.</hi> .600</p>
          </div>
          <div type="rule">
-            <pb n="38" facs="tcp:028887_0037_0FDE674B4B9E2AB8"/>
+            <pb n="38" facs="unknown:028887_0037_0FDE674B4B9E2AB8"/>
             <head>REDUCTION OF DECIMALS.</head>
             <p n="3">3. Reduce .125 of a yard, to its proper quantity. Anſ. 4½ inches.</p>
             <p n="4">4. Reduce .750 of a ton, to its proper quantity. Anſ. <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -3048,7 +3049,7 @@ EXAMPLE.</p>
             <p>WORK as if the two numbers to be multiplyed were whole numbers, pointing off as many decimals to the right, as there are in both the factors, or numbers ſo multiplyed.</p>
          </div>
          <div type="rule">
-            <pb n="39" facs="tcp:028887_0038_0FDE674CC8B468A8"/>
+            <pb n="39" facs="unknown:028887_0038_0FDE674CC8B468A8"/>
             <head>MULTIPLICATION OF DECIMALS.</head>
             <p>EXAMPLE.</p>
             <p>
@@ -3159,7 +3160,7 @@ EXAMPLE.</p>
             </p>
          </div>
          <div type="rule">
-            <pb n="40" facs="tcp:028887_0039_0FDE674E49AFD3F0"/>
+            <pb n="40" facs="unknown:028887_0039_0FDE674E49AFD3F0"/>
             <head>DIVISION OF DECIMALS.</head>
             <p n="3">3. Divide 64 .81 by .16</p>
             <p>
@@ -3215,7 +3216,7 @@ EXAMPLE.</p>
             <p>If the diviſor were tenths, the place for tenth parts only, on the left of the decimals would be filled up with whole numbers: If thouſandth parts, then the whole numbers would fill up the place of <hi>thouſandth</hi> parts, on the left of the decimals.</p>
             <p>In dividing decimals, whenever there begins to be a re<g ref="char:EOLhyphen"/>petition of the quotient figures, and the remainder, that is when the quotient figures run thus .4568 or any other par<g ref="char:EOLhyphen"/>ticular ones, and one of thoſe figures is repeated in the quotient (the remainder being the ſame in both caſes) it is uſeleſs to proceed further with the operation, as it may then be continued to infinity, without coming any nearer the exact number, as in the caſe following.</p>
             <p n="4">
-               <pb n="41" facs="tcp:028887_0040_0FDE675600488280"/>
+               <pb n="41" facs="unknown:028887_0040_0FDE675600488280"/>
 4. Divide 32.250000 by 48.750</p>
             <p>
                <table>
@@ -3307,7 +3308,7 @@ EXAMPLE.</p>
             <p n="1">1. STATE the ſum as if the parts thereof were whole numbers, reducing the firſt and third numbers to one deno<g ref="char:EOLhyphen"/>mination, that is, they muſt both be tenths, hundredths, or the like.</p>
             <p n="2">2. Multiply the ſecond and third numbers together, and divide by the firſt.</p>
             <p n="3">3. Point off as many figures (except one) on the right of the quotient, as there are decimals in the ſecond and third numbers taken together; thoſe on the left being of that de<g ref="char:EOLhyphen"/>nomination,
-<pb n="42" facs="tcp:028887_0041_0FDE67574C473428"/>of which the middle number is a fraction, as pounds, &amp;c.</p>
+<pb n="42" facs="unknown:028887_0041_0FDE67574C473428"/>of which the middle number is a fraction, as pounds, &amp;c.</p>
             <p n="4">4. If the ſecond number be ſhillings, and parts thereof, divide the quotient by 20, multiplying the decimals by 12, and pointing off again for pence, farthings, &amp;c.</p>
             <p n="5">5. In dividing by the firſt number, if there is a remainder, annex a cypher to it, and divide again, and ſo on, till no<g ref="char:EOLhyphen"/>thing remains, obſerving to point off agreeable to the pro<g ref="char:EOLhyphen"/>duct of the ſecond and third numbers.</p>
             <p n="6">6. If the firſt and third terms are whole numbers, and the ſecond one, tenths, or whole numbers and tenths, whole numbers and hundredths, &amp;c. point off as many decimals as there are in it (the ſecond term) the left hand figures are whole numbers of the middle number.—See the 6th ſum for example.</p>
@@ -3469,7 +3470,7 @@ EXAMPLE.</p>
             </p>
          </div>
          <div type="rule">
-            <pb n="43" facs="tcp:028887_0042_0FDE6758C654D1B0"/>
+            <pb n="43" facs="unknown:028887_0042_0FDE6758C654D1B0"/>
             <head>OBSERVATION.</head>
             <p>THE knowledge of this ſyſtem depends in a great mea<g ref="char:EOLhyphen"/>ſure upon that of vulgar fractions, without which nothing can be done to perfection.</p>
          </div>
@@ -3569,7 +3570,7 @@ EXAMPLE.</p>
                      <cell>— to French guineas,</cell>
                      <cell>13 to 12</cell>
                   </row>
-                  <pb n="44" facs="tcp:028887_0043_0FDE675A480471C8"/>
+                  <pb n="44" facs="unknown:028887_0043_0FDE675A480471C8"/>
                   <row>
                      <cell>— to French livres,</cell>
                      <cell>13 to 288</cell>
@@ -3700,7 +3701,7 @@ EXAMPLE.</p>
                      <cell>— to Engliſh guineas,</cell>
                      <cell>126 to 5</cell>
                   </row>
-                  <pb n="45" facs="tcp:028887_0044_0FDE67629F4DE698"/>
+                  <pb n="45" facs="unknown:028887_0044_0FDE67629F4DE698"/>
                   <row>
                      <cell>— to moidores,</cell>
                      <cell>162 to 5</cell>
@@ -3823,7 +3824,7 @@ EXAMPLE.</p>
                      <cell>— to Engliſh guineas,</cell>
                      <cell>14 to 10</cell>
                   </row>
-                  <pb n="46" facs="tcp:028887_0045_0FDE67636958BB68"/>
+                  <pb n="46" facs="unknown:028887_0045_0FDE67636958BB68"/>
                   <row>
                      <cell>— to moidores,</cell>
                      <cell>9 to 5</cell>
@@ -3933,7 +3934,7 @@ EXAMPLE.</p>
                      <cell>— to Dutch or Flemiſh florins,</cell>
                      <cell>4 to 25</cell>
                   </row>
-                  <pb n="47" facs="tcp:028887_0046_0FDE67651F0D3FD0"/>
+                  <pb n="47" facs="unknown:028887_0046_0FDE67651F0D3FD0"/>
                   <row>
                      <cell>— to Dutch guil<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
@@ -4064,7 +4065,7 @@ EXAMPLE.</p>
                      <cell>— to Engliſh and French crowns, at 111 cents,</cell>
                      <cell>259 to 1000</cell>
                   </row>
-                  <pb n="48" facs="tcp:028887_0047_0FDE67669D4243D0"/>
+                  <pb n="48" facs="unknown:028887_0047_0FDE67669D4243D0"/>
                   <row>
                      <cell>— to do. at 5<hi>
                            <abbr>ſ</abbr>
@@ -4205,7 +4206,7 @@ EXAMPLE.</p>
                   <abbr>d.</abbr>
                </hi> Iriſh; the reverſing the caſe needs no explanation.</p>
             <p>
-               <pb n="49" facs="tcp:028887_0048_0FDE676D66F35FE0"/>
+               <pb n="49" facs="unknown:028887_0048_0FDE676D66F35FE0"/>
                <hi>To reduce pounds Sterling, into Engliſh guineas; proportion</hi> 21 <hi>to</hi> 20.</p>
             <p>RULE.</p>
             <p>Subtract one twenty-firſt part, from the pounds Sterling; the remainder are guineas.</p>
@@ -4358,7 +4359,7 @@ EXAMPLE.</p>
             <p>RULE.</p>
             <p n="1">1. Divide the given number of pounds by 9, ſubtracting the quotient therefrom.</p>
             <p n="2">
-               <pb n="50" facs="tcp:028887_0049_0FDE55F6894B5178"/>
+               <pb n="50" facs="unknown:028887_0049_0FDE55F6894B5178"/>
 2. Divide the remainder by 6, ſubtracting that quotient from the dividend in the like manner; the remainder will be the anſwer.
 <note n="*" place="bottom">
                   <hi>The common method in this caſe, is to multiply by</hi> 20 <hi>and di<g ref="char:EOLhyphen"/>vide by</hi> 27, <hi>and contrarywiſe to reverſe it; but the above rule be<g ref="char:EOLhyphen"/>ing ſhorter, I have choſen it as the beſt.</hi>
@@ -4434,7 +4435,7 @@ EXAMPLE.</p>
             <p>RULE.</p>
             <p n="1">1. To reduce pounds into crowns, multiply by 4.</p>
             <p n="2">
-               <pb n="51" facs="tcp:028887_0050_0FDE5722348A35E8"/>
+               <pb n="51" facs="unknown:028887_0050_0FDE5722348A35E8"/>
 2. To reduce crowns into pounds, divide by 4.</p>
             <p>EXAMPLE.</p>
             <p>
@@ -4641,7 +4642,7 @@ EXAMPLE.</p>
                </table>
             </p>
             <p>
-               <pb n="52" facs="tcp:028887_0051_0FDE5600F1F21E18"/>
+               <pb n="52" facs="unknown:028887_0051_0FDE5600F1F21E18"/>
                <hi>To reduce pounds Sterling, into pounds Dutch or Flemiſh cur<g ref="char:EOLhyphen"/>rency—proportion,</hi> 9 <hi>to</hi> 16.</p>
             <p>RULE.</p>
             <p>Divide the given ſum Sterling by 3, adding the quotient to the dividend, which product divide again by 3, adding the dividend and quotient together as before; the product is the anſwer.—Otherwiſe, multiply by 16, and divide by 9.</p>
@@ -4869,7 +4870,7 @@ EXAMPLE.</p>
                </table>
             </p>
             <p>
-               <pb n="53" facs="tcp:028887_0052_0FDD225CE85A6220"/>
+               <pb n="53" facs="unknown:028887_0052_0FDD225CE85A6220"/>
                <hi>To reduce pounds Sterilng, into Dutch or Flemiſh florins
 <note n="*" place="bottom">
                      <hi>For the reverſe of this caſe, ſee reduction of Dutch or Flemiſh <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -5004,7 +5005,7 @@ EXAMPLE.</p>
             <p n="2">2. Divide the laſt product by 3; the quotient is the anſwer.</p>
             <p n="3">3. If there is any remainder, multiply it by 20, and di<g ref="char:EOLhyphen"/>vide again; the quotient is ſtivers.</p>
             <p>
-               <pb n="54" facs="tcp:028887_0053_0FDE5606550C9878"/>
+               <pb n="54" facs="unknown:028887_0053_0FDE5606550C9878"/>
 EXAMPLE.</p>
             <p>
                <table>
@@ -5162,7 +5163,7 @@ EXAMPLE.</p>
                </table>
             </p>
             <p>
-               <pb n="55" facs="tcp:028887_0054_0FDD2269B7019E88"/>
+               <pb n="55" facs="unknown:028887_0054_0FDD2269B7019E88"/>
                <hi>To reduce Sterling, into Spaniſh or federal dollars and cents— proportion,</hi> 9 <hi>to</hi> 40.</p>
             <p>RULE.</p>
             <p n="1">1. Multiply the given ſum by 4.</p>
@@ -5278,7 +5279,7 @@ EXAMPLE.</p>
                      <desc>•</desc>
                   </gap>.</hi> 4 <hi>dol.</hi> 51 <hi>c.</hi> 8 <hi>m.</hi> 210-405</p>
             <p>
-               <pb n="56" facs="tcp:028887_0055_0FDE56116021E420"/>
+               <pb n="56" facs="unknown:028887_0055_0FDE56116021E420"/>
                <hi>To reduce Sterling, into New-Hampſhire, Maſſachuſetts, Connec<g ref="char:EOLhyphen"/>ticut, Rhode-Iſland and Virginia currencies—proportion,</hi> 3 <hi>to</hi> 4.</p>
             <p>RULE.</p>
             <p>Add one third to the given ſum Sterling; the product is the anſwer.</p>
@@ -5438,7 +5439,7 @@ EXAMPLE.</p>
             <p n="1">1. Divide the given ſum Sterling, by 3, adding the quo<g ref="char:EOLhyphen"/>tient to the dividend, as in reduction of Sterling into New-York and North-Carolina currencies.</p>
             <p n="2">2. Divide the product by 4, adding as before; the laſt product is the anſwer. Or multiply by 5, and divide by 3.</p>
             <p>
-               <pb n="57" facs="tcp:028887_0056_0FDD226B2FFB3FB8"/>
+               <pb n="57" facs="unknown:028887_0056_0FDD226B2FFB3FB8"/>
 EXAMPLE.</p>
             <p>
                <table>
@@ -5587,7 +5588,7 @@ EXAMPLE.</p>
             <p>RULE.</p>
             <p>Divide the given ſum by 13, ſubtracting the quotient from the dividend; the remainder is the anſwer in Sterling.</p>
             <p>
-               <pb n="58" facs="tcp:028887_0057_0FDE561B34FFA850"/>
+               <pb n="58" facs="unknown:028887_0057_0FDE561B34FFA850"/>
 EXAMPLE.</p>
             <p>
                <table>
@@ -5839,7 +5840,7 @@ EXAMPLE.</p>
                </table>
             </p>
             <p>
-               <pb n="59" facs="tcp:028887_0058_0FDD2272A95A5D60"/>
+               <pb n="59" facs="unknown:028887_0058_0FDD2272A95A5D60"/>
                <hi>To reduce Iriſh money, into moidores—proportion,</hi> 117 <hi>to</hi> 80.</p>
             <p>RULE.</p>
             <p n="1">1. Divide the given ſum by 3, and ſubtract the quotient from the dividend.</p>
@@ -5969,7 +5970,7 @@ EXAMPLE.</p>
                </table>
             </p>
             <p>
-               <pb n="60" facs="tcp:028887_0059_0FDE5622C6BA4A40"/>
+               <pb n="60" facs="unknown:028887_0059_0FDE5622C6BA4A40"/>
                <hi>To reduce Iriſh money, into French guineas—proportion,</hi> 13 <hi>to</hi> 12.—<hi>See the reduction of Iriſh money into Engliſh Sterling— page</hi> 57, <hi>the rule being the ſame in both caſes.</hi>
             </p>
             <p>
@@ -6123,7 +6124,7 @@ EXAMPLE.</p>
                </table>
             </p>
             <p>
-               <pb n="61" facs="tcp:028887_0060_0FDE5576E21013D8"/>
+               <pb n="61" facs="unknown:028887_0060_0FDE5576E21013D8"/>
                <hi>To reduce Iriſh money, into Dutch or Flemiſh florins—propor<g ref="char:EOLhyphen"/>tion,</hi> 39 <hi>to</hi> 400.</p>
             <p>RULE.</p>
             <p n="1">1. Multiply the given ſum by 10.</p>
@@ -6217,7 +6218,7 @@ EXAMPLE.</p>
             <p n="1">1. Divide the given ſum by 2.</p>
             <p n="2">2. Divide the firſt quotient by 39, adding the ſecond one thereto; the product is half johannes.</p>
             <p>
-               <pb n="62" facs="tcp:028887_0061_0FDE5629D00EF258"/>
+               <pb n="62" facs="unknown:028887_0061_0FDE5629D00EF258"/>
 EXAMPLE.</p>
             <p>
                <table>
@@ -6381,7 +6382,7 @@ EXAMPLE.</p>
                </table>
             </p>
             <p>
-               <pb n="63" facs="tcp:028887_0062_0FDE557CBA22A120"/>
+               <pb n="63" facs="unknown:028887_0062_0FDE557CBA22A120"/>
                <hi>To reduce Iriſh money, into eagles of the United-States—propor<g ref="char:EOLhyphen"/>tion,</hi> 39 <hi>to</hi> 16.</p>
             <p>RULE.</p>
             <p n="1">1. Divide the given ſum by 3.</p>
@@ -6487,7 +6488,7 @@ EXAMPLE.</p>
             <p n="1">1. Multiply the given ſum, by 8, and that product by 8 again.</p>
             <p n="2">2. Divide the laſt product by 39, the quotient will be the anſwer.</p>
             <p>
-               <pb n="64" facs="tcp:028887_0063_0FDE562E6C415C68"/>
+               <pb n="64" facs="unknown:028887_0063_0FDE562E6C415C68"/>
 EXAMPLE.</p>
             <p>
                <table>
@@ -6677,7 +6678,7 @@ EXAMPLE.</p>
                </table>
             </p>
             <p>
-               <pb n="65" facs="tcp:028887_0064_0FDE5582AE81DE58"/>
+               <pb n="65" facs="unknown:028887_0064_0FDE5582AE81DE58"/>
                <hi>To reduce Iriſh money, into South-Carolina and Georgia curren<g ref="char:EOLhyphen"/>cies—proportion,</hi> 117 <hi>to</hi> 112.</p>
             <p>RULE.</p>
             <p n="1">1. Divide the given ſum by 39, and ſubtract the quotient therefrom.</p>
@@ -6839,7 +6840,7 @@ EXAMPLE.</p>
             <p n="2">2. Divide the quotient by 10, adding the dividend and both quotients together.</p>
             <p>☞ <hi>For the Reduction of Dutch or Flemiſh Florins, into Engliſh Sterling, ſee page</hi> 76.</p>
             <p>
-               <pb n="66" facs="tcp:028887_0065_0FDE56390568FE98"/>
+               <pb n="66" facs="unknown:028887_0065_0FDE56390568FE98"/>
 EXAMPLE.</p>
             <p>
                <table>
@@ -6948,7 +6949,7 @@ EXAMPLE.</p>
                </table>
             </p>
             <p>
-               <pb n="67" facs="tcp:028887_0066_0FDE55884ACC82D8"/>
+               <pb n="67" facs="unknown:028887_0066_0FDE55884ACC82D8"/>
                <hi>To reduce Engliſh guineas, into French do.—proportion,</hi> 20 to 21.</p>
             <p>RULE.</p>
             <p>Divide the given number of Engliſh guineas by 20, and add the quotient to the dividend; the product is the an<g ref="char:EOLhyphen"/>ſwer.</p>
@@ -7051,7 +7052,7 @@ EXAMPLE.</p>
                </table>
             </p>
             <p>
-               <pb n="68" facs="tcp:028887_0067_0FDE563FF2673A90"/>
+               <pb n="68" facs="unknown:028887_0067_0FDE563FF2673A90"/>
                <hi>To reduce Engliſh guineas, into Dutch or Flemiſh florins—propor<g ref="char:EOLhyphen"/>tion,</hi> 3 to 35.</p>
             <p>RULE.</p>
             <p n="1">1. Annex a cypher to the given number of guineas, as 3.</p>
@@ -7142,7 +7143,7 @@ EXAMPLE.</p>
                </table>
             </p>
             <p>
-               <pb n="69" facs="tcp:028887_0068_0FDE558DEA73DFC8"/>
+               <pb n="69" facs="unknown:028887_0068_0FDE558DEA73DFC8"/>
                <hi>To reduce Engliſh guineas, into Spaniſh, or Federal doliars and cents—proportion,</hi> 3 <hi>to</hi> 14.</p>
             <p>RULE.</p>
             <p>Multiply the given number of guineas, by 14, and divide by 3—or proceed as follows:</p>
@@ -7245,7 +7246,7 @@ EXAMPLE.</p>
                </table>
             </p>
             <p>
-               <pb n="70" facs="tcp:028887_0069_0FDE5646069B19E0"/>
+               <pb n="70" facs="unknown:028887_0069_0FDE5646069B19E0"/>
                <hi>To reduce Engliſh guineas, into New-Jerſey, Pennſylvania, D<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>
@@ -7317,7 +7318,7 @@ EXAMPLE.</p>
             <p>RULE.</p>
             <p>Divide the given number of crowns, by 4, the quotient of which divide again by 12, adding the two quotients toge<g ref="char:EOLhyphen"/>ther.</p>
             <p>
-               <pb n="71" facs="tcp:028887_0070_0FDE5595589E3F00"/>
+               <pb n="71" facs="unknown:028887_0070_0FDE5595589E3F00"/>
 EXAMPLE.</p>
             <p>
                <table>
@@ -7413,7 +7414,7 @@ EXAMPLE.</p>
             <p n="1">1. Divide the given number of crowns by 9.</p>
             <p n="2">2. Divide the firſt quotient by 3, doubling the ſecond one, which add to the firſt.</p>
             <p>
-               <pb n="72" facs="tcp:028887_0071_0FDD225B69E9FB00"/>
+               <pb n="72" facs="unknown:028887_0071_0FDD225B69E9FB00"/>
 EXAMPLE.</p>
             <p>
                <table>
@@ -7474,7 +7475,7 @@ EXAMPLE.</p>
             <p n="2">2. Divide the product by 3.</p>
             <p n="3">3. Divide the quotient by 6, adding the dividend and both quotients together.</p>
             <p>
-               <pb n="73" facs="tcp:028887_0072_0FDE559AC94732C8"/>
+               <pb n="73" facs="unknown:028887_0072_0FDE559AC94732C8"/>
 EXAMPLE.</p>
             <p>
                <table>
@@ -7579,7 +7580,7 @@ EXAMPLE.</p>
                </table>
             </p>
             <p>
-               <pb n="74" facs="tcp:028887_0073_0FDE564F5DCBF9B8"/>
+               <pb n="74" facs="unknown:028887_0073_0FDE564F5DCBF9B8"/>
                <hi>To reduce Engliſh or French crowns, at</hi> 111 <hi>cents,
 <note n="*" place="bottom">
                      <hi>At 5ſ. St<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -7684,7 +7685,7 @@ EXAMPLE.</p>
             <p>RULE.</p>
             <p>Divide the given number of crowns, by 3.</p>
             <p>
-               <pb n="75" facs="tcp:028887_0074_0FDE55A0798A5CA8"/>
+               <pb n="75" facs="unknown:028887_0074_0FDE55A0798A5CA8"/>
 EXAMPLE.</p>
             <p>
                <table>
@@ -7791,7 +7792,7 @@ EXAMPLE.</p>
                </table>
             </p>
             <p>
-               <pb n="76" facs="tcp:028887_0075_0FDE5657125340F0"/>
+               <pb n="76" facs="unknown:028887_0075_0FDE5657125340F0"/>
                <hi>To reduce Engliſh or French crowns, at</hi> 5<hi>
                   <abbr>ſ.</abbr>
                </hi> 2<hi>
@@ -8023,7 +8024,7 @@ EXAMPLE.</p>
                </table>
             </p>
             <p>
-               <pb n="77" facs="tcp:028887_0076_0FDE55A71D074A28"/>
+               <pb n="77" facs="unknown:028887_0076_0FDE55A71D074A28"/>
                <hi>To reduce Dutch or Flemiſh florins, into Flemiſh guilders—pro<g ref="char:EOLhyphen"/>portion,</hi> 25 <hi>to</hi> 24.</p>
             <p>RULE.</p>
             <p n="1">1. Divide the given number of florins, by 5.</p>
@@ -8092,7 +8093,7 @@ EXAMPLE.</p>
             <p n="2">2. Divide the quotient by 10, ſubtracting the quotient from the dividend.</p>
             <p n="3">3. In dividing by 10 the firſt time, if there is a remain<g ref="char:EOLhyphen"/>der, as 3, annex a cypher to it, or conſider it as 30, dividing again, and the like in the ſecond diviſion, pointing off two figures from the right of the remainder, after ſubtracting the quotients; which two figures muſt be multiplyed by 20, and the product pointed off again for ſhillings, &amp;c. If there is a remainder in the ſecond diviſion, and none in the firſt, point off only one figure.</p>
             <p>
-               <pb n="78" facs="tcp:028887_0077_0FDE565D676A7C10"/>
+               <pb n="78" facs="unknown:028887_0077_0FDE565D676A7C10"/>
 EXAMPLE.</p>
             <p>
                <table>
@@ -8209,7 +8210,7 @@ EXAMPLE.</p>
                </table>
             </p>
             <p>
-               <pb n="79" facs="tcp:028887_0078_0FDE55AC8FC63540"/>
+               <pb n="79" facs="unknown:028887_0078_0FDE55AC8FC63540"/>
                <hi>To reduce Dutch or Flemiſh florins, into Engliſh guineas—pro<g ref="char:EOLhyphen"/>portion,</hi> 105 <hi>to</hi> 9.</p>
             <p>RULE.</p>
             <p n="1">1. Multiply the given number of florins, by 3.</p>
@@ -8306,7 +8307,7 @@ EXAMPLE.</p>
             <p>RULE.</p>
             <p>Multiply by 9, and divide by 25. Or,</p>
             <p n="1">
-               <pb n="80" facs="tcp:028887_0079_0FDE5664D65E3DF8"/>
+               <pb n="80" facs="unknown:028887_0079_0FDE5664D65E3DF8"/>
 1. Divide the given number of florins, by 5.</p>
             <p n="2">2. Multiply the quotient by 2.</p>
             <p n="3">3. Divide the product by 10, ſubtracting the quotient therefrom.</p>
@@ -8389,7 +8390,7 @@ EXAMPLE.</p>
             <p n="1">1. Divide the given number of florins by 10.</p>
             <p n="2">2. Divide the quotient by 10, ſubtracting the ſecond one from the firſt.</p>
             <p>
-               <pb n="81" facs="tcp:028887_0080_0FDE55B48C6BA830"/>
+               <pb n="81" facs="unknown:028887_0080_0FDE55B48C6BA830"/>
 EXAMPLE.</p>
             <p>
                <table>
@@ -8474,7 +8475,7 @@ EXAMPLE.</p>
                </table>
             </p>
             <p>
-               <pb n="82" facs="tcp:028887_0081_0FDE566AE672BA48"/>
+               <pb n="82" facs="unknown:028887_0081_0FDE566AE672BA48"/>
 Or thus, multiply by 40, cutting off the two right hand figures, for cents.</p>
             <p>
                <table>
@@ -8534,7 +8535,7 @@ Or thus, multiply by 40, cutting off the two right hand figures, for cents.</p>
             <p n="1">1. Divide the given number of florins by 5.</p>
             <p n="2">2. Divide the firſt quotient, by 5, ſubtracting the ſecond one therefrom.</p>
             <p>
-               <pb n="83" facs="tcp:028887_0082_0FDE55BA430AA408"/>
+               <pb n="83" facs="unknown:028887_0082_0FDE55BA430AA408"/>
 EXAMPLE.</p>
             <p>
                <table>
@@ -8702,7 +8703,7 @@ EXAMPLE.</p>
             </p>
          </div>
          <div type="rule">
-            <pb n="84" facs="tcp:028887_0083_0FDE5670882CD1B8"/>
+            <pb n="84" facs="unknown:028887_0083_0FDE5670882CD1B8"/>
             <head>
                <hi>To reduce Dutch or Flemiſh florins, into South-Carolina and Georgia currencies—proportion,</hi> 75 <hi>to</hi> 7.</head>
             <p>RULE.</p>
@@ -8790,7 +8791,7 @@ EXAMPLE.</p>
             <p>RULE.</p>
             <p>Divide the given number of livres by 6.</p>
             <p>
-               <pb n="85" facs="tcp:028887_0084_0FDE55BF46D32970"/>
+               <pb n="85" facs="unknown:028887_0084_0FDE55BF46D32970"/>
 EXAMPLE.</p>
             <p>
                <table>
@@ -8894,7 +8895,7 @@ EXAMPLE.</p>
             <p>Multiply the given number of livres by 5, and divide by 126. Or,</p>
             <p n="1">1. Annex a cypher to the given number of livres, and divide that product by 12.</p>
             <p n="2">
-               <pb n="86" facs="tcp:028887_0085_0FDE5678E5307260"/>
+               <pb n="86" facs="unknown:028887_0085_0FDE5678E5307260"/>
 2. Divide the product by 21; the laſt quotient is the anſwer.</p>
             <p>EXAMPLE.</p>
             <p>
@@ -9010,7 +9011,7 @@ EXAMPLE.</p>
             <head>
                <hi>To reduce French livres, into Dutch or Flemiſh florins—propor<g ref="char:EOLhyphen"/>portion</hi> 54, <hi>to</hi> 25.</head>
             <p>
-               <pb n="87" facs="tcp:028887_0086_0FDE55C55E0A2B98"/>
+               <pb n="87" facs="unknown:028887_0086_0FDE55C55E0A2B98"/>
 RULE.</p>
             <p n="1">1. Divide the given number of livres by 3.</p>
             <p n="2">2. Divide the quotient by 3.</p>
@@ -9086,7 +9087,7 @@ RULE.</p>
             <p n="2">2. Divide the quotient by 6.</p>
             <p n="3">3. Divide the ſecond quotient by 4, adding the third one to it.</p>
             <p>
-               <pb n="88" facs="tcp:028887_0087_0FDE567FEE7CCD78"/>
+               <pb n="88" facs="unknown:028887_0087_0FDE567FEE7CCD78"/>
 EXAMPLE.</p>
             <p>
                <table>
@@ -9173,7 +9174,7 @@ EXAMPLE.</p>
             <p>RULE.</p>
             <p>Divide the given number of livres by 18.</p>
             <p>
-               <pb n="89" facs="tcp:028887_0088_0FDE55CA4C6F0778"/>
+               <pb n="89" facs="unknown:028887_0088_0FDE55CA4C6F0778"/>
 EXAMPLE.</p>
             <p>
                <table>
@@ -9295,7 +9296,7 @@ EXAMPLE.</p>
             </p>
          </div>
          <div type="rule">
-            <pb n="90" facs="tcp:028887_0089_0FDE56870E839B50"/>
+            <pb n="90" facs="unknown:028887_0089_0FDE56870E839B50"/>
             <head>
                <hi>To reduce French livres, into New-Jerſey, Pennſylvania, De<g ref="char:EOLhyphen"/>laware and Maryland currencies—proportion,</hi> 72 <hi>to</hi> 5.</head>
             <p>RULE.</p>
@@ -9379,7 +9380,7 @@ EXAMPLE.</p>
             <p n="1">1. Multiply the given number of dollars by 9.</p>
             <p n="2">2. Divide the product by 40, for pounds, and the re<g ref="char:EOLhyphen"/>mainder (if any) by 2, for ſhillings and pence.</p>
             <p>
-               <pb n="91" facs="tcp:028887_0090_0FDE55D1F59B3C70"/>
+               <pb n="91" facs="unknown:028887_0090_0FDE55D1F59B3C70"/>
 EXAMPLE.</p>
             <p>
                <table>
@@ -9481,7 +9482,7 @@ EXAMPLE.</p>
                </table>
             </p>
             <p>
-               <pb n="92" facs="tcp:028887_0091_0FDE568E03EC12F8"/>
+               <pb n="92" facs="unknown:028887_0091_0FDE568E03EC12F8"/>
 To reduce Spaniſhor Federal dollars, into moidores—propertion, 6 <hi>to</hi> 1.</p>
             <p>RULE.</p>
             <p>Divide the given number of dollars by 6; the remainder being dollars.</p>
@@ -9534,7 +9535,7 @@ To reduce Spaniſhor Federal dollars, into moidores—propertion, 6 <hi>to</hi> 
             <p n="1">1. Annex two cyphers to the given number of dollars, and divide by 111.</p>
             <p n="2">2. Multiply the remainder (if any) by 4, and divide again, for quarters.</p>
             <p>
-               <pb n="93" facs="tcp:028887_0092_0FDE55D7F6E275F8"/>
+               <pb n="93" facs="unknown:028887_0092_0FDE55D7F6E275F8"/>
 EXAMPLE.</p>
             <p>
                <table>
@@ -9640,7 +9641,7 @@ EXAMPLE.</p>
                </table>
             </p>
             <p>
-               <pb n="94" facs="tcp:028887_0093_0FDE5693B62FB058"/>
+               <pb n="94" facs="unknown:028887_0093_0FDE5693B62FB058"/>
                <hi>To reduce Spaniſh or Federal dollars, into Dutch or Flemiſh guilders—proportion,</hi> 5 <hi>to</hi> 12.</p>
             <p>RULE.</p>
             <p n="1">1. Multiply the given number of dollars by 2.</p>
@@ -9705,7 +9706,7 @@ EXAMPLE.</p>
                </table>
             </p>
             <p>
-               <pb n="95" facs="tcp:028887_0094_0FDE55DF3216A990"/>
+               <pb n="95" facs="unknown:028887_0094_0FDE55DF3216A990"/>
                <hi>To reduce Spaniſh or Federal dollars, into Portugueze half-johan<g ref="char:EOLhyphen"/>nes—proportion,</hi> 8 <hi>to</hi> 1.</p>
             <p>RULE.</p>
             <p>Divide the given number of dollars by 8.</p>
@@ -9769,7 +9770,7 @@ EXAMPLE.</p>
             <p>RULE.</p>
             <p>Multiply the given number of dollars by 4, cutting off and doubling the right hand figure, for ſhillings; thoſe to the left are pounds.</p>
             <p>
-               <pb n="96" facs="tcp:028887_0095_0FDE56992362F5C0"/>
+               <pb n="96" facs="unknown:028887_0095_0FDE56992362F5C0"/>
 EXAMPLE.</p>
             <p>
                <table>
@@ -9897,7 +9898,7 @@ EXAMPLE.</p>
             </p>
          </div>
          <div type="rule">
-            <pb n="97" facs="tcp:028887_0096_0FDE55E826339638"/>
+            <pb n="97" facs="unknown:028887_0096_0FDE55E826339638"/>
             <head>Reduction of Coins and Currencies.</head>
             <p>To reduce eagles of the United-States, into the different coins and currencies, annex a cypher to the given number, and reduce them as dollars.</p>
             <p>
@@ -9970,7 +9971,7 @@ EXAMPLE.</p>
             <p>Multiply the given ſum by 5, and divide by 7.</p>
          </div>
          <div type="rule">
-            <pb n="98" facs="tcp:028887_0097_0FDE569E1D5CD0B0"/>
+            <pb n="98" facs="unknown:028887_0097_0FDE569E1D5CD0B0"/>
             <head>Reduction of Coins and Currencies.</head>
             <p>EXAMPLE.</p>
             <p>
@@ -10075,7 +10076,7 @@ EXAMPLE.</p>
             </p>
          </div>
          <div type="rule">
-            <pb n="99" facs="tcp:028887_0098_0FDE55EFA31D8468"/>
+            <pb n="99" facs="unknown:028887_0098_0FDE55EFA31D8468"/>
             <head>Reduction of Coins and Currencies.</head>
             <p>
                <hi>To reduce New-Hampſhire, Maſſachuſetts, Rhode-Iſland, Con<g ref="char:EOLhyphen"/>necticut and Virginia currencies, into French guineas—pro<g ref="char:EOLhyphen"/>portion,</hi> 4 <hi>to</hi> 3.</p>
@@ -10185,7 +10186,7 @@ EXAMPLE.</p>
             </p>
          </div>
          <div type="rule">
-            <pb n="100" facs="tcp:028887_0099_0FDE56A3BB045278"/>
+            <pb n="100" facs="unknown:028887_0099_0FDE56A3BB045278"/>
             <head>Reduction of Coins and Currencies.</head>
             <p>
                <hi>To reduce New-Hampſhire, Maſſachuſetts, Rhode-Iſland, Con<g ref="char:EOLhyphen"/>necticut and Virginia currencies into Dutch or Flemiſh florins—proportion,</hi> 3 <hi>to</hi> 25.</p>
@@ -10274,7 +10275,7 @@ EXAMPLE.</p>
             <p n="2">2. Divide the firſt quotient by 6, ſubtracting the ſecond one therefrom.</p>
          </div>
          <div type="rule">
-            <pb n="101" facs="tcp:028887_0100_0FDE56A969110FC0"/>
+            <pb n="101" facs="unknown:028887_0100_0FDE56A969110FC0"/>
             <head>Reduction of Coins and Currencies.</head>
             <p>EXAMPLE.</p>
             <p>
@@ -10405,7 +10406,7 @@ EXAMPLE.</p>
                </table>
             </p>
             <p>
-               <pb n="102" facs="tcp:028887_0101_0FDE56AFE226C088"/>
+               <pb n="102" facs="unknown:028887_0101_0FDE56AFE226C088"/>
                <hi>To reduce New-Hampſhire, Maſſachuſetts, Rhode-Iſland, Con<g ref="char:EOLhyphen"/>necticut and Virginia currencies, into New-York and North-Carolina currencies—proportion,</hi> 3 <hi>to</hi> 4.</p>
             <p>RULE.</p>
             <p>Divide the given ſum by 3, adding the quotient to the di<g ref="char:EOLhyphen"/>vidend.</p>
@@ -10491,7 +10492,7 @@ EXAMPLE.</p>
                </table>
             </p>
             <p>
-               <pb n="103" facs="tcp:028887_0102_0FDE56B69D393380"/>
+               <pb n="103" facs="unknown:028887_0102_0FDE56B69D393380"/>
                <hi>To reduce New-York and North-Carolina currencies, into dollars and cents—proportion,</hi> 2 <hi>to</hi> 5.</p>
             <p>RULE.</p>
             <p n="1">1. Multiply by 5, and divide by 2.</p>
@@ -10633,7 +10634,7 @@ EXAMPLE.</p>
                </table>
             </p>
             <p>
-               <pb n="104" facs="tcp:028887_0103_0FDE56BE725FD020"/>
+               <pb n="104" facs="unknown:028887_0103_0FDE56BE725FD020"/>
                <hi>To reduce New-York and North-Carolina currencies, into New-Jerſey, Pennſylvania, Delaware and Maryland currencies— proportion,</hi> 16 <hi>to</hi> 15.</p>
             <p>RULE.</p>
             <p n="1">1. Divide the given ſum by 4.</p>
@@ -10744,7 +10745,7 @@ EXAMPLE.</p>
             <p n="1">1. Divide the given ſum by 4, ſubtracting the quotient from the dividend.</p>
             <p n="2">2. Divide the remainder by 4, ſubtracting in like manner.</p>
             <p>
-               <pb n="105" facs="tcp:028887_0104_0FDE56C503CD6768"/>
+               <pb n="105" facs="unknown:028887_0104_0FDE56C503CD6768"/>
 EXAMPLE.</p>
             <p>
                <table>
@@ -10852,7 +10853,7 @@ EXAMPLE.</p>
             <p n="1">1. Divide the given ſum by 4; the quotient of which multiply by 2.</p>
             <p n="2">2. Divide the firſt quotient by 7, adding the ſecond one to the product.</p>
             <p>
-               <pb n="106" facs="tcp:028887_0105_0FDE56CAA765AD98"/>
+               <pb n="106" facs="unknown:028887_0105_0FDE56CAA765AD98"/>
 EXAMPLE.</p>
             <p>
                <table>
@@ -10953,7 +10954,7 @@ EXAMPLE.</p>
                </gap>e multiplyed by 10.</p>
             <p n="2">2. Divide by 111; the quotient is crowns, and the remain<g ref="char:EOLhyphen"/>der cents.</p>
             <p>
-               <pb n="107" facs="tcp:028887_0106_0FDE56D2D346D080"/>
+               <pb n="107" facs="unknown:028887_0106_0FDE56D2D346D080"/>
 EXAMPLE.</p>
             <p>
                <table>
@@ -11092,7 +11093,7 @@ EXAMPLE.</p>
                   <hi>See the note—page</hi> 46.</note>—proportion, 16 to 9—ſee the reduction of New-York and North-Carolina currencies, into Engliſh Sterling—page 104.</p>
          </div>
          <div type="rule">
-            <pb n="108" facs="tcp:028887_0107_0FDE56D7529658B8"/>
+            <pb n="108" facs="unknown:028887_0107_0FDE56D7529658B8"/>
             <head>
                <hi>To reduce New-York and North-Carolina currencies, into French livres—proportion,</hi> 2 <hi>to</hi> 27.</head>
             <p>RULE.</p>
@@ -11190,7 +11191,7 @@ EXAMPLE.</p>
             <p>RULE.</p>
             <p>Multiply the given ſum by 6.</p>
             <p>
-               <pb n="109" facs="tcp:028887_0108_0FDE56DC6FEBB340"/>
+               <pb n="109" facs="unknown:028887_0108_0FDE56DC6FEBB340"/>
 EXAMPLE.</p>
             <p>
                <table>
@@ -11309,7 +11310,7 @@ EXAMPLE.</p>
                </table>
             </p>
             <p>
-               <pb n="110" facs="tcp:028887_0109_0FDE56E3FAFB03A8"/>
+               <pb n="110" facs="unknown:028887_0109_0FDE56E3FAFB03A8"/>
                <hi>To reduce New-Jerſey, Pennſylvania, Delaware and Maryland currencies, into New-Hampſhire, Maſſachuſetts, Rhode-Iſland, Connecticut, and Virginia currencies—proportion,</hi> 5 <hi>to</hi> 4.</p>
             <p>RULE.</p>
             <p>Divide the given ſum by 5, ſubtracting the quotient therefrom.</p>
@@ -11405,7 +11406,7 @@ EXAMPLE.</p>
             <p n="2">2. Multiply the quotient by 3.</p>
             <p n="3">3. Divide the firſt quotient by 9, adding the quotient to the product.</p>
             <p>
-               <pb n="111" facs="tcp:028887_0110_0FDE56EAC1161380"/>
+               <pb n="111" facs="unknown:028887_0110_0FDE56EAC1161380"/>
 EXAMPLE.</p>
             <p>
                <table>
@@ -11531,7 +11532,7 @@ EXAMPLE.</p>
             <p n="2">2. Divide the product by 5.</p>
             <p n="3">3. Divide the firſt quotient by 12, adding the ſecond one thereto.</p>
             <p>
-               <pb n="112" facs="tcp:028887_0111_0FDE56F28F039508"/>
+               <pb n="112" facs="unknown:028887_0111_0FDE56F28F039508"/>
 EXAMPLE.</p>
             <p>
                <table>
@@ -11667,7 +11668,7 @@ EXAMPLE.</p>
             </p>
          </div>
          <div type="rule">
-            <pb n="113" facs="tcp:028887_0112_0FDE56F76628F390"/>
+            <pb n="113" facs="unknown:028887_0112_0FDE56F76628F390"/>
             <head>
                <hi>To reduce New-Jerſey, Pennſylvania, Delaware and Maryland currencies, into Engliſh or French crowns, at</hi> 111 <hi>cents each —proportion,</hi> 333 <hi>to</hi> 800.</head>
             <p n="1">1. Multiply the given ſum by 8, and if there are neither ſhillings nor pence in the product, annex two cyphers to it, dividing by 333; the quotient will be crowns, and the re<g ref="char:EOLhyphen"/>mainder 333d parts of a crown.</p>
@@ -11776,7 +11777,7 @@ EXAMPLE.</p>
             </p>
          </div>
          <div type="rule">
-            <pb n="114" facs="tcp:028887_0113_0FDE56FC44B5A488"/>
+            <pb n="114" facs="unknown:028887_0113_0FDE56FC44B5A488"/>
             <head>
                <hi>To reduce New-Jerſey, Pennſylvania, Delaware and Maryland currencies, into Engliſh or French crowns, at</hi> 8<hi>
                   <abbr>ſ.</abbr>
@@ -11873,7 +11874,7 @@ EXAMPLE.</p>
             <p n="1">1. Multiply the given ſum by 12.</p>
             <p n="2">2. Divide the product by 5, adding the quotient thereto; every ſhilling in the ſecond product, as 3, 4 or 5, being ac<g ref="char:EOLhyphen"/>counted a ſou, and the pence 12th parts thereof.</p>
             <p>
-               <pb n="115" facs="tcp:028887_0114_0FDE57031D2257F0"/>
+               <pb n="115" facs="unknown:028887_0114_0FDE57031D2257F0"/>
 EXAMPLE.</p>
             <p>
                <table>
@@ -11979,7 +11980,7 @@ EXAMPLE.</p>
             <p n="1">1. Multiply the given ſum by 6.</p>
             <p n="2">2. Divide the ſame by 5, doubling the quotient, and ad<g ref="char:EOLhyphen"/>ding it to the product.</p>
             <p>
-               <pb n="116" facs="tcp:028887_0115_0FDE5708E1EF5CD8"/>
+               <pb n="116" facs="unknown:028887_0115_0FDE5708E1EF5CD8"/>
 EXAMPLE.</p>
             <p>
                <table>
@@ -12113,7 +12114,7 @@ EXAMPLE.</p>
                </table>
             </p>
             <p>
-               <pb n="117" facs="tcp:028887_0116_0FDE571127B03B88"/>
+               <pb n="117" facs="unknown:028887_0116_0FDE571127B03B88"/>
                <hi>To reduce South-Carolina and Georgia currenoies, into New-Hampſhire, Maſſachuſetts, Rhode-Iſland, Connecticut and Vir<g ref="char:EOLhyphen"/>ginia currencies—proportion,</hi> 7 <hi>to</hi> 9.</p>
             <p>RULE.</p>
             <p n="1">1. Divide the given ſum by 7, adding the quotient to the dividend.</p>
@@ -12209,7 +12210,7 @@ EXAMPLE.</p>
             <p n="2">2. Divide the quotient by 7.</p>
             <p n="3">3. Divide the ſecond quotient by 2, adding the four numbers together.</p>
             <p>
-               <pb n="118" facs="tcp:028887_0117_0FDE5717749380D0"/>
+               <pb n="118" facs="unknown:028887_0117_0FDE5717749380D0"/>
 EXAMPLE.</p>
             <p>
                <table>
@@ -12337,7 +12338,7 @@ EXAMPLE.</p>
                </table>
             </p>
             <p>
-               <pb n="119" facs="tcp:028887_0118_0FDE571C46B80438"/>
+               <pb n="119" facs="unknown:028887_0118_0FDE571C46B80438"/>
                <hi>To reduce South-Carolina and Georgia currencies, into Engliſh guineas—proportion,</hi> 49 <hi>to</hi> 45.</p>
             <p>RULE.</p>
             <p n="1">1. Divide the given ſum by 49, multiplying the quotient by 4.</p>
@@ -12461,7 +12462,7 @@ EXAMPLE.</p>
             <p n="2">2. Multiply the product by 10, and that product by the ſame, dividing by 259.</p>
             <p>☞ Note—If the given ſum be all pounds, annex three cyphers, or if the firſt product is without ſhillings or pence, annex two cyphers inſtead of 3.</p>
             <p>
-               <pb n="120" facs="tcp:028887_0119_0FDD2259EEF462C0"/>
+               <pb n="120" facs="unknown:028887_0119_0FDD2259EEF462C0"/>
 EXAMPLE.</p>
             <p>
                <table>
@@ -12607,7 +12608,7 @@ EXAMPLE.</p>
             <p n="2">2. Divide the product by 7.</p>
             <p n="3">3. Divide the firſt quotient by 4, ſubtracting the ſecond one from the product.</p>
             <p>
-               <pb n="121" facs="tcp:028887_0120_0FDE57271C3A70C0"/>
+               <pb n="121" facs="unknown:028887_0120_0FDE57271C3A70C0"/>
 EXAMPLE.</p>
             <p>
                <table>
@@ -12714,7 +12715,7 @@ EXAMPLE.</p>
                </table>
             </p>
             <p>
-               <pb n="122" facs="tcp:028887_0121_0FDE572CA1AE8F00"/>
+               <pb n="122" facs="unknown:028887_0121_0FDE572CA1AE8F00"/>
                <hi>To reduce South-Carolina and Georgia currencies, into Dutch or Flemiſh guilders—proportion,</hi> 7 <hi>to</hi> 72.</p>
             <p>RULE.</p>
             <p n="1">1. Multiply the given ſum by 10.</p>
@@ -12804,7 +12805,7 @@ EXAMPLE.</p>
             </p>
          </div>
          <div type="rule">
-            <pb n="123" facs="tcp:028887_0122_0FDE573366A22AD0"/>
+            <pb n="123" facs="unknown:028887_0122_0FDE573366A22AD0"/>
             <head>Rules for Calculating Federal Money.</head>
             <p>IT is not a little extraordinary, that this currency which is of all others the leaſt intricate and the eaſieſt cal<g ref="char:EOLhyphen"/>culated, is alſo the leaſt underſtood and the ſeldomeſt prac<g ref="char:EOLhyphen"/>tiſed, even by good arithmeticians—I flatter myſelf how<g ref="char:EOLhyphen"/>ever, that I ſhall explain it in ſuch a manner, as to leave no perſon at a loſs, who will pay half an hour's attention to the following pages: Here I muſt obſerve once for all, that in <hi>every caſe, the different denominations muſt be conſi<g ref="char:EOLhyphen"/>dered as whole numbers, and that the dollar point is the re<g ref="char:EOLhyphen"/>gulator for all the others.</hi> I do therefore for the more ea<g ref="char:EOLhyphen"/>ſy comprehenſion of the ſubject, ſubjoin the following</p>
             <p>
@@ -12852,7 +12853,7 @@ EXAMPLE.</p>
             </p>
             <p>If the ſum be of different denominations, as 3 eagles, 4 dollars, 5 dimes, 6 cents and 7 mills, or any <hi>others,</hi> reduction decending cannot apply, becauſe it is already reduced, and muſt be numerated as whole numbers in the loweſt denomination mentioned—in the preſent caſe it is 34,567 mills.</p>
             <p>
-               <pb n="124" facs="tcp:028887_0123_0FDE573A037479C8"/>
+               <pb n="124" facs="unknown:028887_0123_0FDE573A037479C8"/>
                <hi>To find the amount of any quantity or number at a given price.</hi>
             </p>
             <p>RULE.</p>
@@ -12969,7 +12970,7 @@ EXAMPLE.</p>
             </p>
          </div>
          <div type="rule">
-            <pb n="125" facs="tcp:028887_0124_0FDE573A08A52668"/>
+            <pb n="125" facs="unknown:028887_0124_0FDE573A08A52668"/>
             <head>Intereſt on Federal Money.</head>
             <p>RULE.</p>
             <p n="1">1. If the ſum conſiſts of dollars only, multiply it by the rate per cent, and that product by the term of years, pointing off two figures from the right hand for cents; the reſt are dollars—thus,</p>
@@ -13069,7 +13070,7 @@ EXAMPLE.</p>
       </body>
       <back>
          <div type="table_of_contents">
-            <pb facs="tcp:028887_0125_0FDE5741065E14C8"/>
+            <pb facs="unknown:028887_0125_0FDE5741065E14C8"/>
             <head>CONTENTS.</head>
             <list>
                <item>PREFACE, PAGE 3</item>
